@@ -9,9 +9,8 @@
 
 <div>
   <a href="https://github.com/alequissandrara">
-    
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=alequissandrara&repo=github-readme-stats">
+    
     
    
 </div>  
