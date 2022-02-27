@@ -1,16 +1,18 @@
-### Hi there 👋
+### 🥰 Olá!!! Me chamo Alequissandra Rayane, mas pode ficar a vontade para me chamar de Alê🤗 
 
-<!--
-**alequissandrara/alequissandrara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github-readme-stats.vercel.app/api alequissandrara=anuraghazra&theme=dark&show_icons=true
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 Estudante de Ciências da Computação.
+- 🧐 A procura de estágio/emprego na área de TI.
+- 👽 Na jornada do conhecimento para se tornar uma desenvolvedor full stack.
+- 💌 contato: alequissandrarayane123@gmail.com
+- 👾 Pronomes: Ela/ dela.
+
+<div>
+  <a href="https://github.com/alequissandrara">
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=alequissandrara&repo=github-readme-stats">
+    
+   
+</div>  
+
