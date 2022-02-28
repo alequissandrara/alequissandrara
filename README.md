@@ -3,7 +3,7 @@
 
 - 🤓 Estudante de Ciências da Computação.
 - 🧐 A procura de estágio/emprego na área de TI.
-- 👽 Na jornada do conhecimento para se tornar uma desenvolvedor full stack.
+- 👽 Na jornada do conhecimento para se tornar uma desenvolvedora full stack.
 - 👾 Pronomes: Ela/ dela.
 
 <div align="center">
@@ -27,11 +27,9 @@
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/81984887360"/>
 
-</a>
-  
-<a href="mailto:alequissandrarayane123@gmail.com" alt="gmail" target="_blank">
+<a href="mailto:alequissandrarayane123@gmail.com>" alt="gmail" target="_blank">
 
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alequissandrarayane123@gmail.com" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
   <a href="https://www.linkedin.com/in/alequissandra-rayane-586240202" alt="linkedin" target="_blank">
