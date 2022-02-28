@@ -4,14 +4,44 @@
 - 🤓 Estudante de Ciências da Computação.
 - 🧐 A procura de estágio/emprego na área de TI.
 - 👽 Na jornada do conhecimento para se tornar uma desenvolvedor full stack.
-- 💌 contato: alequissandrarayane123@gmail.com
 - 👾 Pronomes: Ela/ dela.
 
-<div>
+<div align="center">
   <a href="https://github.com/alequissandrara">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda">
-    
-    
-   
-</div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alequissandrara&layout=compact&langs_count=7&theme=panda"/>
+</div>
+  
+<div style="display: inline_block" align="center"><br>
+  <!--<img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
+  <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ale-Csharp" height="30" width="40"  
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
+ 
+##
+<a href="https://wa.me/81984887360>" alt="WhatsApp" target="_blank">
+
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/81984887360"/>
+
+</a>
+  
+<a href="mailto:alequissandrarayane123@gmail.com" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alequissandrarayane123@gmail.com" />
+
+</a>
+  <a href="https://www.linkedin.com/in/alequissandra-rayane-586240202" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
+  <a href="https://github.com/alequissandrara" alt="github" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
+  
