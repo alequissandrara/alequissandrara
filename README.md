@@ -2,9 +2,8 @@
 
 
 - 🤓 Estudante de Ciências da Computação.
-- 🧐 A procura de estágio/emprego na área de TI.
+- 👾 Estagiária Tech.
 - 👽 Na jornada do conhecimento para se tornar uma desenvolvedora full stack.
-- 👾 Pronomes: Ela/ dela.
 
 <div align="center">
   <a href="https://github.com/alequissandrara">
