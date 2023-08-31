@@ -2,7 +2,6 @@
 
 
 - 🤓 Estudante de Ciências da Computação.
-- 👾 Estagiária Tech.
 - 👽 Na jornada do conhecimento para se tornar uma desenvolvedora full stack.
 
 <div align="center">
