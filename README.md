@@ -1,5 +1,5 @@
 
- ![CPT2309252356-1087x740 (1)](https://github.com/alequissandrara/alequissandrara/assets/70325643/31788f3a-4981-4b9e-8c56-f70eb19bf41e) 
+![Purple Illustrative Pixel Art Game Presentation (1)](https://github.com/alequissandrara/alequissandrara/assets/70325643/3680ab87-f3b9-4be2-9b8a-932537c79d6a)
 
 <div align="center">
   <a href="https://github.com/alequissandrara">
@@ -22,7 +22,7 @@
   <img align="center" alt="Ale-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
 
 
-
+<br/>
 <a href="https://wa.me/81984887360>" alt="WhatsApp" target="_blank">
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/81984887360"/>
