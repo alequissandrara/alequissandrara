@@ -1,12 +1,5 @@
 
-![Purple Illustrative Pixel Art Game Presentation (1)](https://github.com/alequissandrara/alequissandrara/assets/70325643/3680ab87-f3b9-4be2-9b8a-932537c79d6a)
 
-<div align="center">
-  <a href="https://github.com/alequissandrara">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=alequissandrara&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alequissandrara&layout=compact&langs_count=7&theme=panda"/>
-</div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ale-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
